@@ -1,0 +1,10 @@
+a = int(input("Введите целое число 1 "))
+q = int(input("Введите целое число 2 "))
+b = float(input("Введите дробное число "))
+c = input("Введите строку ")
+
+print(a)
+print(q)
+print(b)
+print(c)
+print(a+q+b)

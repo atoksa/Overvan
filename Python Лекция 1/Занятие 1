@@ -1,0 +1,23 @@
+a = 5 # переменная типа int
+pi = 3.14 # переменная типа float
+s = "Hello, world!" # переменная типа string
+t = True # переменная типа bool
+print(a)
+print(pi)
+print(s)
+print(t)
+print("Передал текст")
+a = 6
+b = 2
+d = a + b
+f = a - b
+print(f)
+S = input()
+print(S)
+q = int(input("Введите целое число "))
+p = float(input("Введите дробное число "))
+si = input("Введите строку ")
+
+print(q)
+print(p)
+print(si)
